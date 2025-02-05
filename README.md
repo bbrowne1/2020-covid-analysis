@@ -1,5 +1,9 @@
 2020 COVID-19 Data Analysis Project
+
+
 Overview
+
+
 This project focuses on analyzing COVID-19 data from the year 2020. The dataset used in this analysis was downloaded from Our World in Data. The primary objective is to derive meaningful insights from the data collected during the pandemic. The dataset contains 49,016 rows of country-specific data, which is used to explore various aspects of the pandemic's impact.
 
 The project is structured as a Jupyter Notebook and leverages Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization. The analysis is divided into several sections, including data preparation, exploratory analysis, and answering specific questions related to the pandemic.
