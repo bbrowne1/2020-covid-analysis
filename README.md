@@ -79,3 +79,6 @@ Contact
 For any questions or feedback, please contact the project author.
 
 This README.md provides a comprehensive overview of the project, including its structure, key insights, and instructions for running the notebook. It also acknowledges the data source and the course that inspired the project.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=bbrowne1&repo=2020-covid-analysiss&color=blue)
+
